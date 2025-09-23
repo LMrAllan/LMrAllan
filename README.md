@@ -5,9 +5,8 @@
   <a href="alan123arafer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mrallan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 
-    Me chamo Alan Araújo Fernandes, tenho 23 anos e sou de Goiânia Goiás. Atualmente, estou cursando o último período de Ciências da Computação na PUC-GO. Gosto muito de tudo o que envolve a tecnologia e principalmente na área dos Games 🤣
-
-    No momento atuo na área de técnico de informática em uma empresa de energia solar chamada EOS Engenharia Sustentável e tenho interesse de migrar para área de desenvolvimento 🙏
+Me chamo Alan Araújo Fernandes, tenho 23 anos e sou de Goiânia Goiás. Atualmente,estou cursando o último período de Ciências da Computação na PUC-GO. Gosto muitode tudo o que envolve a tecnologia e principalmente na área dos Games 🤣
+No momento atuo na área de técnico de informática em uma empresa de energia solarchamada EOS Engenharia Sustentável e tenho interesse de migrar para área dedesenvolvimento 🙏
 
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a> 
   <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a> 
@@ -18,7 +17,6 @@
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 ---
-
 <p align="center">
   <img 
        alt="GitHub Stats" 
@@ -29,4 +27,3 @@
 
 ---
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGd2ZHhibHptanRpaWFyMGZyenA2dXRnZGN5eTU2cGc4ZGNrYm1jbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AQRapWCgC7dThyVEYb/giphy.gif" alt="Praise the Sun GIF" width="100%"/>
-
