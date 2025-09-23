@@ -7,7 +7,7 @@
 
 Me chamo Alan Araújo Fernandes, tenho 23 anos e sou de Goiânia Goiás. Atualmente,estou cursando o último período de Ciências da Computação na PUC-GO. Gosto muitode tudo o que envolve a tecnologia e principalmente na área dos Games 🤣
 
-No momento atuo na área de técnico de informática em uma empresa de energia solarchamada EOS Engenharia Sustentável e tenho interesse de migrar para área dedesenvolvimento 🙏
+No momento atuo na área de técnico de informática em uma empresa de energia solar chamada EOS Engenharia Sustentável e tenho interesse de migrar para área dedesenvolvimento 🙏
 
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a> 
   <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a> 
