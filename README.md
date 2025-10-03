@@ -5,7 +5,7 @@
   <a href="alan123arafer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mrallan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 
-Me chamo Alan Araújo Fernandes, tenho 23 anos e sou de Goiânia Goiás. Atualmente,estou cursando o último período de Ciências da Computação na PUC-GO. Gosto muitode tudo o que envolve a tecnologia e principalmente na área dos Games 🤣
+Me chamo Alan Araújo Fernandes, tenho 23 anos e sou de Goiânia Goiás. Atualmente,estou cursando o último período de Ciências da Computação na PUC-GO. Gosto muito de tudo o que envolve a tecnologia e principalmente na área dos Games 🤣
 
 No momento atuo na área de técnico de informática em uma empresa de energia solar chamada EOS Engenharia Sustentável e tenho interesse de migrar para área dedesenvolvimento 🙏
 
