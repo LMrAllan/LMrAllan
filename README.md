@@ -22,7 +22,7 @@ No momento atuo na área de técnico de informática em uma empresa de energia s
 
 <div align="center">
   <a href="https://github.com/lmrallan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmrallan&layout=compact&langs_count=7&theme=tokyonight&custom_title=Linguagens+Utilizadas"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmrallan&layout=compact&langs_count=7&theme=tokyonight&custom_title=Linguagens+Utilizadas&cache_seconds=3600"/>
   </a>
 </div>
 
