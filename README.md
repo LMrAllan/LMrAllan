@@ -20,11 +20,4 @@ No momento atuo na área de técnico de informática em uma empresa de energia s
   <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white"></a>
 ---
 
-<div align="center">
-  <a href="https://github.com/lmrallan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmrallan&layout=compact&langs_count=7&theme=tokyonight&custom_title=Linguagens+Utilizadas"/>
-  </a>
-</div>
-
----
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGd2ZHhibHptanRpaWFyMGZyenA2dXRnZGN5eTU2cGc4ZGNrYm1jbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AQRapWCgC7dThyVEYb/giphy.gif" alt="Praise the Sun GIF" width="100%"/>
