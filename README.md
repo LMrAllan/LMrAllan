@@ -5,9 +5,9 @@
   <a href="alan123arafer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mrallan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 
-Me chamo Alan Araújo Fernandes, tenho 23 anos e sou de Goiânia Goiás. Recentemente,concluí o curso de Ciências da Computação na PUC-GO. Gosto muito de tudo o que envolve a tecnologia e principalmente na área dos Games 🤣
+Me chamo Alan Araújo Fernandes, tenho 23 anos e sou de Goiânia Goiás. Recentemente, concluí o curso de Ciências da Computação na PUC-GO. Gosto muito de tudo o que envolve a tecnologia e principalmente na área dos Games 🤣
 
-No momento atuo na área de técnico de informática em uma empresa de energia solar chamada EOS Engenharia Sustentável e tenho interesse de migrar para área dedesenvolvimento 🙏
+Atualmente estou na procura para conseguir algo na área de dedesenvolvimento 🙏
 
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a> 
   <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a> 
